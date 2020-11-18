@@ -4,23 +4,15 @@ public class newMain1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		
 		//biodata
-
-	
 		 biodata b1 = new biodata();
 		 cgpa     obj1 = new cgpa();
-		
 		
 		 b1.printbiodata();
 		 obj1.printcgpa();
 		
-		
-		
-		
-		
-		
 		//Workskills
-		
 		workSkills1 obj3 = new workSkills1();
 		System.out.println ("Work Experience : " + obj3.experience);
 		System.out.println ("Skills : " + obj3.skills);
